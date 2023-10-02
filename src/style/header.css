@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@800&family=Raleway:wght@200&display=swap');
+
+.header{
+width: 100vw;
+height: 10vh;
+background-color: #fcb93e;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.brandname{
+    position: fixed;
+    left:2%;
+    font-family:'Dancing Script', cursive;
+}
+.links{
+    text-decoration: none;
+    color:#ff7700;
+    font-weight: bolder;
+    margin: 20px;
+    position: relative;
+  
+
+}

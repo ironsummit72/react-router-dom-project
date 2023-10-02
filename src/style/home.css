@@ -1,0 +1,22 @@
+.illistration{
+    width: 30vw;
+    height: auto;
+    position: fixed;
+    right:20px;
+}
+.description{
+    width: 40vw;
+    position: fixed;
+    left: 100px;
+    top:100px;
+    line-height:1.8;
+    font-size: large;
+}
+.googleplaybadge{
+    width: 15vw;
+    position: fixed;
+    top:57%;
+    left: 20%;
+  
+   
+}
